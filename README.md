@@ -1,4 +1,4 @@
-# Four in a Row Bot
+# Connect Four Bot
 
 This project is an open-source Discord bot that lets Discord users play the popular two-player game Connect Four against each other or against an AI. 
 
