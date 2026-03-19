@@ -1,6 +1,6 @@
 # Four in a Row Bot
 
-This project is an open-source Discord bot that lets Discord users play the popular two-player game Four in a Row (called Connect Four by Hasbro) against each other or against an AI. 
+This project is an open-source Discord bot that lets Discord users play the popular two-player game Connect Four against each other or against an AI. 
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Connect_Four.jpg/512px-Connect_Four.jpg" alt="Connect Four">
